@@ -6,7 +6,8 @@ Como desenvolvedora, comecei a programar pelo desenvolvimento de aplicações in
  NodeJS •
  ReactJS •
  React Native • 
- C
+ C •
+ Python
 </p>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaylapedroso/)](https://www.linkedin.com/in/thaylapedroso/) [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thayla.pedroso88@gmail.com)](mailto:thayla.pedroso88@gmail.com) [![Blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&logo=Blog&logoColor=white&link=http://pensaengenheira.blogspot.com/)](http://pensaengenheira.blogspot.com/)
