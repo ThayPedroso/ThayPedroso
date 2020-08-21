@@ -1,5 +1,5 @@
 ### Olá galera 👋
-Como desenvolvedora, comecei a programar pelo desenvolvimento de aplicações industriais, IIoT e indústria 4.0 com interfaces web e dashboards online. Amo programação e estou gostando cada vez mais da linguagem JavaScript e tudo que pode ser feito com essa stack: nodejs, react e react native, onde procuro uma oportunidade para atuar no mercado hoje. Já tenho experiências de projetos reais com Nodejs. Acredito que a troca de conhecimento sempre gera benefícios mútuos. Adoro podcasts, filmes e chocolate. Bora fazer um networking?
+Como desenvolvedora, comecei a programar a partir de aplicações industriais, IIoT e indústria 4.0 com interfaces web e dashboards online. Amo programação e estou gostando cada vez mais da linguagem JavaScript e tudo que pode ser feito com essa stack: nodejs, react e react native, onde procuro uma oportunidade para atuar no mercado hoje. Já tenho experiências de projetos reais com Nodejs. Acredito que a troca de conhecimento sempre gera benefícios mútuos. Adoro podcasts, filmes e chocolate. Bora fazer um networking?
 
 ### 🛠 Tecnologias
 <p align="left">
